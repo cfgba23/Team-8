@@ -1,0 +1,85 @@
+{
+    "cursos": [
+      {
+        "id": 1,
+        "titulo": "Finanzas Personales",
+        "imagen": "finanzas_personales.jpg",
+        "descripcion": "Aprende a gestionar tus finanzas personales de manera efectiva.",
+        "fecha_inicio": "2023-01-15",
+        "fecha_finalizacion": "2023-02-15"
+      },
+      {
+        "id": 2,
+        "titulo": "Atención al Cliente",
+        "imagen": "atencion_cliente.jpg",
+        "descripcion": "Desarrolla habilidades para brindar un servicio de atención al cliente excepcional.",
+        "fecha_inicio": "2023-02-01",
+        "fecha_finalizacion": "2023-03-01"
+      },
+      {
+        "id": 3,
+        "titulo": "Posventa Estratégica",
+        "imagen": "posventa_estrategica.jpg",
+        "descripcion": "Optimiza tus estrategias de posventa para fidelizar a tus clientes.",
+        "fecha_inicio": "2023-03-10",
+        "fecha_finalizacion": "2023-04-10"
+      },
+      {
+        "id": 4,
+        "titulo": "Marketing Digital para Emprendedores",
+        "imagen": "marketing_digital.jpg",
+        "descripcion": "Descubre cómo utilizar el marketing digital para potenciar tu emprendimiento.",
+        "fecha_inicio": "2023-04-05",
+        "fecha_finalizacion": "2023-05-05"
+      },
+      {
+        "id": 5,
+        "titulo": "Gestión Efectiva del Tiempo",
+        "imagen": "gestion_tiempo.jpg",
+        "descripcion": "Mejora tu productividad mediante técnicas de gestión del tiempo.",
+        "fecha_inicio": "2023-05-20",
+        "fecha_finalizacion": "2023-06-20"
+      },
+      {
+        "id": 6,
+        "titulo": "Desarrollo de Ideas de Negocio",
+        "imagen": "desarrollo_negocio.jpg",
+        "descripcion": "Aprende a transformar tus ideas en proyectos de negocio sólidos.",
+        "fecha_inicio": "2023-06-01",
+        "fecha_finalizacion": "2023-07-01"
+      },
+      {
+        "id": 7,
+        "titulo": "Habilidades de Comunicación Empresarial",
+        "imagen": "comunicacion_empresarial.jpg",
+        "descripcion": "Perfecciona tus habilidades de comunicación para el entorno empresarial.",
+        "fecha_inicio": "2023-07-15",
+        "fecha_finalizacion": "2023-08-15"
+      },
+      {
+        "id": 8,
+        "titulo": "Estrategias de Ventas para Emprendedores",
+        "imagen": "estrategias_ventas.jpg",
+        "descripcion": "Domina las técnicas de ventas clave para emprendedores.",
+        "fecha_inicio": "2023-08-01",
+        "fecha_finalizacion": "2023-09-01"
+      },
+      {
+        "id": 9,
+        "titulo": "Innovación en Modelos de Negocio",
+        "imagen": "innovacion_negocio.jpg",
+        "descripcion": "Explora nuevas formas de innovar en tu modelo de negocio.",
+        "fecha_inicio": "2023-09-10",
+        "fecha_finalizacion": "2023-10-10"
+      },
+      {
+        "id": 10,
+        "titulo": "Liderazgo para Emprendedores",
+        "imagen": "liderazgo_emprendedores.jpg",
+        "descripcion": "Desarrolla habilidades de liderazgo efectivas para tu emprendimiento.",
+        "fecha_inicio": "2023-10-05",
+        "fecha_finalizacion": "2023-11-05"
+      }
+    ]
+  }
+  
