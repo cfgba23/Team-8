@@ -1,0 +1,47 @@
+.mis-cursos{
+    margin-top: 70px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    margin-left: 50px;
+    max-height: 400px;
+    overflow: auto;
+}
+.cursos-disponibles{
+    margin-top: 70px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 50px;
+    overflow: auto;
+}
+
+.title {
+    font-size : 12px;
+    color: white;
+    border-radius: 10px;
+    background: #612573;
+    height: 60px;
+    width: 1000px;
+    font-family: Inter;
+    margin-bottom: 30px;
+
+}
+.page {
+    background-color: white;
+}
+.title2 {
+    font-size : 12px;
+    color: white;
+    border-radius: 10px;
+    background: #612573;
+    height: 60px;
+    width: 1000px;
+    font-family: Inter;
+    margin-bottom: 200px;
+}
+.body {
+    padding: 0;
+    margin: 0;
+}
